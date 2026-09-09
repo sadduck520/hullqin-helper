@@ -1,0 +1,12 @@
+# 系统与工具
+.zcode/
+node_modules/
+*.log
+*.err.log
+.DS_Store
+Thumbs.db
+
+# 测试产物（自对弈/对比赛输出）
+hullqin斗兽棋/results-*/
+hullqin斗兽棋/compare-*/
+_rev/

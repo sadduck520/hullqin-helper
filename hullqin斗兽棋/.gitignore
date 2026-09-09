@@ -1,0 +1,18 @@
+# 对弈实验输出（可重新生成）
+results-*/
+compare-*/
+*.log
+
+# 开局库生成产物
+book.json
+book-summary.txt
+
+# 遗留的空调试文件
+engine.mcts.dbg.js
+smoke-book.js
+
+# 临时/调试脚本（不应提交）
+check.js
+debug*.js
+miniworker.js
+patch*.js
