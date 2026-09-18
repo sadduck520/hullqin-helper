@@ -10,3 +10,7 @@ Thumbs.db
 hullqin斗兽棋/results-*/
 hullqin斗兽棋/compare-*/
 _rev/
+
+# Python 缓存
+__pycache__/
+*.pyc
